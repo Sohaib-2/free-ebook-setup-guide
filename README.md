@@ -1,74 +1,85 @@
-# Free eBook Setup and Download Guide
+# 📚 Ultimate Free eBook Setup & Download Guide (2026 Edition)
 
-This guide provides step-by-step instructions for downloading and reading free eBooks on both Android and PC. It covers installing essential apps, finding free eBooks from popular sources like LibGen and Project Gutenberg, and using torrent clients for downloading.
+This guide is designed for readers who want to build a digital library using open-source tools and public resources. It covers everything from high-quality public domain classics to academic papers and modern management.
 
-## Steps for Setting Up and Accessing Free eBooks on Android:
-
-### 1. Download Droid-ify APK
-- Go to this link and download the Droid-ify APK:  
-  [Droid-ify v0.6.3 APK](https://github.com/Droid-ify/client/releases/download/v0.6.3/app-release.apk)
-
-### 2. Install and Open Droid-ify
-- Once downloaded, install the APK.  
-- Open Droid-ify and search for the app called **Librera Reader**.  
-- Install **Librera Reader** from Droid-ify or download it directly from this link:  
-  [Librera Reader v8.9.175 APK](https://github.com/foobnix/LibreraReader/releases/download/8.9.175/Librera.Fdroid-8.9.175-arm64.apk)
-
-### 3. Use Librera Reader to Read and Download eBooks
-- Librera Reader allows you to read books in various formats (ePub, PDF, etc.).  
-- For downloading eBooks, the best source is [LibGen](https://libgen.is), where you can find almost any book for free. Just download the book in your preferred format and open it in Librera Reader.
-
-### 4. Install Torrents-CSV and LibreTorrent for Torrent Downloads
-- In Droid-ify, search for **Torrents-CSV** and **LibreTorrent**. Install both apps.  
-- **Torrents-CSV** is used to search for torrents, while **LibreTorrent** is used to download them.
-
-### 5. Using Torrents-CSV and LibreTorrent
-- Open **Torrents-CSV** and search for any file or book you need.  
-- When you click on download, the torrent file will be opened in **LibreTorrent**, where the actual downloading of the content will take place.
-
-### 6. Additional Resources for Free eBooks
-- Apart from LibGen, you can also find free eBooks from other resources like:
-  - [Project Gutenberg](https://www.gutenberg.org/) – A vast library of free eBooks available for download.
-  - [Open Library](https://openlibrary.org/) – Borrow and download free eBooks from a collection of over a million titles.
+> ### ⚖️ Disclaimer
+> 
+> 
+> This guide is for educational purposes only. Accessing or downloading copyrighted material without permission may be illegal in your jurisdiction. Users are encouraged to prioritize legal resources like Project Gutenberg, Open Library, and local library apps (e.g., Libby). Use third-party tools and "shadow libraries" at your own risk.
 
 ---
 
-## Additionaly, Steps for Getting Free eBooks on PC:
+## 📱 Android Setup: The Portable Library
 
-### 1. Accessing Free eBooks Using a Browser
-- Visit [LibGen](https://libgen.is) and search for the book you want to download.  
-- Download the book in a format suitable for reading on your PC, such as PDF or ePub. You can use the free software **Calibre** to manage and read eBooks on your PC.
+### 1. Install an Open-Source App Store
 
-### 2. Download and Install Calibre for eBook Management
-- Download and install **Calibre**, a free eBook management software, from [Calibre's Official Website](https://calibre-ebook.com/download).
-- With Calibre, you can organize, convert, and read eBooks on your PC. You can also use it to transfer eBooks to your eReader device.
+Instead of the Play Store, use **Droid-ify** (a fast F-Droid client) to find privacy-respecting, ad-free reading tools.
 
-### 3. Using Torrents for eBooks on PC
-- To download eBooks using torrents on PC, you need a torrent client like **qBittorrent**:
-  - Download **qBittorrent** from [qBittorrent Official Website](https://www.qbittorrent.org/download.php).
-  - Search for torrent files using [Torrents-CSV](https://github.com/Alpha-90/torrents-csv) (available for both Android and PC) or torrent websites.
-  - Once you find the torrent file, open it in **qBittorrent** to start the download.
+* **Download:** [Droid-ify APK](https://github.com/Droid-ify/client/releases)
+* **Why?** It ensures you get the "F-Droid" versions of apps, which are often cleaner and more feature-rich than Play Store versions.
 
-### 4. Additional Resources for Free eBooks on PC
-- You can also access free eBooks on PC through the following resources:
-  - [Project Gutenberg](https://www.gutenberg.org/) – Free eBooks in the public domain.
-  - [Open Library](https://openlibrary.org/) – Borrow digital books from their vast collection.
+### 2. Choose Your Reader
+
+Search for these in Droid-ify or download directly:
+
+* **Librera Reader:** Best all-in-one reader. Supports PDF, EPUB, MOBI, and even comic formats (CBZ).
+* **Readest:** A modern, beautiful reader with cross-platform sync and a "deep reading" mode.
+* **Moon+ Reader (Optional):** Highly customizable, though the free version has minor ads.
+
+### 3. Advanced Torrenting on Android
+
+If a book is unavailable via direct download, use the BitTorrent network.
+
+* **The Searcher:** [Torrents-CSV](https://github.com/Alpha-90/torrents-csv) — A privacy-focused search engine.
+* **The Downloader:** [LibreTorrent](https://github.com/proninyaroslav/libretorrent) — A lightweight, open-source client.
+* **How-To:** Search in Torrents-CSV → Click Magnet Link → LibreTorrent will automatically open to start the download.
 
 ---
 
-## Summary of Key Resources:
-- **Android Apps:**
-  - [Droid-ify](https://github.com/Droid-ify/client/releases)
-  - [Librera Reader](https://github.com/foobnix/LibreraReader/releases)
-  - [Torrents-CSV](https://github.com/Alpha-90/torrents-csv)
-  - [LibreTorrent](https://github.com/proninyaroslav/libretorrent)
+## 💻 PC Setup: The Power User Archive
 
-- **PC Software:**
-  - [Calibre](https://calibre-ebook.com/download)
-  - [qBittorrent](https://www.qbittorrent.org/download.php)
+### 1. The Essential Tool: Calibre
 
-- **Free eBook Resources:**
-  - [LibGen](https://libgen.is)
-  - [Project Gutenberg](https://www.gutenberg.org/)
-  - [Open Library](https://openlibrary.org/)
+**Calibre** is the "iTunes for eBooks." It is mandatory for any serious digital reader.
+
+* **Download:** [Calibre Official Site](https://calibre-ebook.com/download)
+* **Key Features:**
+* **Conversion:** Change `.mobi` or `.pdf` to `.epub` for better reading.
+* **Edit Metadata:** Fix broken covers, titles, and author names.
+* **Content Server:** Host your own "Netflix for books" that you can access from your phone's browser.
+
+
+
+### 2. Desktop Torrenting
+
+* **qBittorrent:** The most trusted, open-source, and ad-free client.
+* **Download:** [qBittorrent.org](https://www.qbittorrent.org/)
+
+---
+
+## 🌐 Global eBook Resources (Top Mirrors & Sites)
+
+### Legal & High Quality (Always Safe)
+
+| Source | Best For... |
+| --- | --- |
+| **[Standard Ebooks](https://standardebooks.org/)** | Beautifully formatted, high-quality public domain classics. |
+| **[Project Gutenberg](https://www.gutenberg.org/)** | The largest archive of free, legal classics (70,000+ titles). |
+| **[OpenLibrary](https://openlibrary.org/)**  |
+| **[LibriVox](https://librivox.org/)** | Free public domain **audiobooks** read by volunteers. |
+
+### Research & Specialized Mirrors (Shadow Libraries)
+
+* **[LibGen (Library Genesis)](https://libgen.is):** The gold standard for textbooks and scientific papers. Use `.is`, `.rs`, or `.st` mirrors.
+* **[Anna’s Archive](https://www.google.com/search?q=https://annas-archive.org):** A massive search engine that indexes LibGen, Z-Library, and more into one place.
+* **[OceanofPDF](https://oceanofpdf.com):** Popular for fiction and trending modern novels.
+
+---
+
+## 🛡️ Safety & Pro-Tips
+
+* **Format Choice:** Always prefer **EPUB** over PDF for mobile reading. EPUBs "reflow" text to fit your screen size; PDFs do not.
+* **VPN Usage:** If using torrents or LibGen in countries with strict ISP monitoring, use a reputable VPN to protect your privacy.
+* **Virus Scanning:** While eBook files (`.epub`, `.mobi`) are generally safe, always be cautious of `.exe` or `.zip` files disguised as books.
+* **Ad-Blockers:** Use the **uBlock Origin** browser extension when visiting shadow libraries to block intrusive pop-ups.
 
