@@ -70,8 +70,8 @@ If a book is unavailable via direct download, use the BitTorrent network.
 
 ### Research & Specialized Mirrors (Shadow Libraries)
 
-* **[LibGen (Library Genesis)](https://libgen.is):** The gold standard for textbooks and scientific papers. Use `.is`, `.rs`, or `.st` mirrors.
-* **[Anna’s Archive](https://www.google.com/search?q=https://annas-archive.org):** A massive search engine that indexes LibGen, Z-Library, and more into one place.
+* **[LibGen (Library Genesis)](http://libgen.li):** The gold standard for textbooks and scientific papers. Use `.is`, `.rs`, or `.st` mirrors.
+* **[Anna’s Archive](https://annas-archive.li/):** A massive search engine that indexes LibGen, Z-Library, and more into one place.
 * **[OceanofPDF](https://oceanofpdf.com):** Popular for fiction and trending modern novels.
 
 ---
